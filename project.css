@@ -1,0 +1,14 @@
+div{
+    margin-right: auto;
+    margin-left:auto;
+    background-color: whitesmoke;
+    width: 500px;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+    color: blue;
+}
+a:hover{
+    color: yellow;
+}
